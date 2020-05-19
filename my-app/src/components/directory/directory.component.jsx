@@ -30,7 +30,8 @@ class Directory extends Component {
         },
         {
           title: "console",
-          imageUrl: "https://i.dlpng.com/static/png/6364982_preview.png",
+          imageUrl:
+            "https://img.pngio.com/video-game-consoles-png-free-video-game-consolespng-transparent-game-console-png-762_371.png",
           size: "large",
           id: 4,
           linkUrl: "",
